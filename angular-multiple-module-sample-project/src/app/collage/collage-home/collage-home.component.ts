@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { LoginService } from 'src/app/core/login.service';
 
 @Component({
   selector: 'app-collage-home',
@@ -7,9 +8,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CollageHomeComponent implements OnInit {
 
-  constructor() { }
+  userDetail:any;
 
+  constructor(public loginService:LoginService) { }
   ngOnInit(): void {
+    this.userDetail = this.loginService.getLoginDetails();
   }
 
 }
