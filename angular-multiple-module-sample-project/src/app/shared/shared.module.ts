@@ -3,17 +3,17 @@ import { CommonModule } from '@angular/common';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { UserDetailsPipe } from './user-details.pipe';
 import { TranslateModule } from '@ngx-translate/core';
+import { HeaderComponent } from './header/header.component';
 
 
 
 @NgModule({
-  declarations: [UserDetailsPipe],
+  declarations: [UserDetailsPipe, HeaderComponent],
   imports: [
     CommonModule,
-    FormsModule,
     ReactiveFormsModule,
     TranslateModule
   ],
-  exports:[UserDetailsPipe,TranslateModule]
+  exports:[UserDetailsPipe,TranslateModule,HeaderComponent]
 })
 export class SharedModule { }

@@ -8,8 +8,6 @@ import { TranslateService } from '@ngx-translate/core';
 })
 export class HeaderComponent implements OnInit {
 
-  language:any='en';
-
   constructor(private translate:TranslateService) { }
  
   ngOnInit(): void {
