@@ -2,12 +2,13 @@
 
 ## step to clone it
 
-git clone 
+```git clone 
 cd angular-2-multiple-module-sample-project
 npm install
 ng serve
+```
 
-Now go to ![http://localhost:4200](http://localhost:4200)
+Now go to http://localhost:4200
 
 ## Lazy loading of module
 
