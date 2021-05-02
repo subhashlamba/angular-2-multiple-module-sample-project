@@ -2,7 +2,7 @@
 
 ## Lazy loading of module
 
- [Screenshot](https://github.com/subhashlamba/angular-2-multiple-module-sample-project/blob/main/Multiple-Module-Lazy-Load.JPG) 
+ ![Screenshot](https://github.com/subhashlamba/angular-2-multiple-module-sample-project/blob/main/Multiple-Module-Lazy-Load.JPG) 
  
 ## Multiple language configurations
 
