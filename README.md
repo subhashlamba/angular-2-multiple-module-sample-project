@@ -1,7 +1,7 @@
 # angular 2 multiple module sample project
 
 ## Lazy loading of module
-    [Lazy loading of module](angular-multiple-module-sample-project\src\assets\images\Multiple-Module-Lazy-Load.JPG)
+    ![Lazy loading of module](angular-multiple-module-sample-project/src/assets/images/Multiple-Module-Lazy-Load.JPG)
 ## Multiple language configurations
 
 ## Module: share 
