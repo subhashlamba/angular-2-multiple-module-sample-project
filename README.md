@@ -1,5 +1,14 @@
 # Angular 2 multiple module sample project
 
+## step to clone it
+
+```git clone 
+cd angular-2-multiple-module-sample-project
+npm install
+ng serve```
+
+Now go to ![http://localhost:4200](http://localhost:4200)
+
 ## Lazy loading of module
 
  ![Screenshot](Multiple-Module-Lazy-Load.JPG) 
