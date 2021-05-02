@@ -1,3 +1,10 @@
 {
-   "hello":"Hello Arabic"
+   "first-name":"الاسم الأول",
+   "last-name":"الكنية",
+   "degree":"الدرجة العلمية",
+   "name":"اسم",
+   "university":"جامعة",
+   "address":"عنوان",
+   "student":"طالب علم",
+   "collage":"كلية"
 }

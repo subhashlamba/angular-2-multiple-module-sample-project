@@ -3,8 +3,19 @@
 ## Lazy loading of module
 
  ![Screenshot](https://github.com/subhashlamba/angular-2-multiple-module-sample-project/blob/main/Multiple-Module-Lazy-Load.JPG) 
- 
+
+
+## Boostrap 
+
+    Installed bootstrap version ```4.6.0```
+  
 ## Multiple language configurations
+    Support for LTR (Left to Right) and (Right to Left)
+
+ ![Screenshot](https://github.com/subhashlamba/angular-2-multiple-module-sample-project/blob/main/Multiple-Language-Support-EN) 
+
+ 
+ ![Screenshot](https://github.com/subhashlamba/angular-2-multiple-module-sample-project/blob/main/Multiple-Language-Support-ER-RTL) 
 
 ## Module: share 
 

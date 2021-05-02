@@ -1,3 +1,10 @@
 {
-   "hello":"Hello"
+   "first-name":"First Name",
+   "last-name":"Last Name",
+   "degree":"Degree",
+   "name":"Name",
+   "university":"University",
+   "address":"Address",
+   "student":"Student",
+   "collage":"Collage"
 }
