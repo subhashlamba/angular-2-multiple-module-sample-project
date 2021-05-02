@@ -1,4 +1,4 @@
-# angular 2 multiple module sample project
+# Angular 2 multiple module sample project
 
 ## Lazy loading of module
 
