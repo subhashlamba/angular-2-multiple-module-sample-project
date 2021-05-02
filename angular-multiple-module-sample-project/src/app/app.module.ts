@@ -8,6 +8,7 @@ import { HeaderComponent } from './header/header.component';
 import {TranslateLoader, TranslateModule} from '@ngx-translate/core';
 import { HttpClient } from '@angular/common/http';
 import {TranslateHttpLoader} from '@ngx-translate/http-loader';
+import { SharedModule } from './shared/shared.module';
 
 export function createTranslateLoader(http: HttpClient) {
   return new TranslateHttpLoader(http, './assets/i18n/', '.json');
@@ -21,9 +22,10 @@ export function createTranslateLoader(http: HttpClient) {
   imports: [
     BrowserModule,
     CoreModule,
+    SharedModule,
     AppRoutingModule,
     TranslateModule.forRoot({
-      loader: {
+      loader: { 
           provide: TranslateLoader,
           useFactory: (createTranslateLoader),
           deps: [HttpClient]
