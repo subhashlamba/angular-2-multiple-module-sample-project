@@ -22,10 +22,10 @@ Now go to http://localhost:4200
 ## Multiple language configurations
     Support for LTR (Left to Right) and (Right to Left)
 
- ![Screenshot](Multiple-Language-Support-EN) 
+ ![Screenshot](Multiple-Language-Support-EN.JPG) 
 
  
- ![Screenshot](Multiple-Language-Support-ER-RTL) 
+ ![Screenshot](Multiple-Language-Support-ER-RTL.JPG) 
 
 ## Module: share 
 
